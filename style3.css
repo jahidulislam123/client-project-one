@@ -1,0 +1,21 @@
+#phone-header {
+    color: black;
+
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-radius: 8px;
+
+}
+
+.post {
+    background-color: wheat;
+
+}
+
+.post h1 {
+    color: rgb(57, 3, 119);
+}
+
+#container2 {
+    background-color: antiquewhite;
+}
